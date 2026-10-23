@@ -6,6 +6,7 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const dist = path.join(root, "dist");
 const routes = JSON.parse(fs.readFileSync(path.join(dist, "manus-routes.json"), "utf8")).routes;
 const stores = JSON.parse(fs.readFileSync(path.join(root, "src/data/stores.json"), "utf8")).stores;
+const storeLinks = JSON.parse(fs.readFileSync(path.join(root, "src/data/store-links.json"), "utf8"));
 
 const expectedBaseRoutes = ["/", "/concept/", "/stores/", "/news/", "/recruit/", "/company/", "/contact/", "/faq/"];
 const paths = new Set(routes.map(({ path: pagePath }) => pagePath));
@@ -19,6 +20,10 @@ for (const store of stores) {
   if (!html.includes('"@type":"Restaurant"')) throw new Error(`Missing Restaurant JSON-LD: ${store.slug}`);
   if (!html.includes('"@type":"BreadcrumbList"')) throw new Error(`Missing BreadcrumbList JSON-LD: ${store.slug}`);
   if (!html.includes(store.name)) throw new Error(`Missing visible store name: ${store.slug}`);
+  if (!html.includes("支払い方法を教えてください。")) throw new Error(`Missing payment FAQ: ${store.slug}`);
+  if (!html.includes("現金・クレジットカードをご利用いただけます。")) throw new Error(`Missing payment answer: ${store.slug}`);
+  if (!html.includes(storeLinks[store.slug].reservationUrl)) throw new Error(`Missing reservation URL: ${store.slug}`);
+  if (!html.includes("ネット予約")) throw new Error(`Missing reservation CTA: ${store.slug}`);
 }
 if (routes.length !== expectedBaseRoutes.length + stores.length) throw new Error(`Unexpected route count: ${routes.length}`);
 const homepage = fs.readFileSync(path.join(dist, "index.html"), "utf8");

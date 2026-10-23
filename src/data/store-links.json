@@ -1,0 +1,34 @@
+{
+  "higashishinsaibashi": {
+    "officialPageUrl": "https://yakinikuenningu.owst.jp/",
+    "reservationUrl": "https://www.hotpepper.jp/strJ001193194/yoyaku/hpds/?ROUTE_KBN=20"
+  },
+  "higashishinsaibashi-apa": {
+    "officialPageUrl": "https://yakinikuenningu-2goten.owst.jp/",
+    "reservationUrl": "https://www.hotpepper.jp/strJ001294021/yoyaku/hpds/?ROUTE_KBN=20"
+  },
+  "nihonbashi": {
+    "officialPageUrl": "https://yakinikuen-nihonbashi.owst.jp/",
+    "reservationUrl": "https://www.hotpepper.jp/strJ001226785/yoyaku/hpds/?ROUTE_KBN=20"
+  },
+  "sakaisujihommachi": {
+    "officialPageUrl": "https://ning-sakaisuzihonmachi.owst.jp/",
+    "reservationUrl": "https://www.hotpepper.jp/strJ001263613/yoyaku/hpds/?ROUTE_KBN=20"
+  },
+  "noda": {
+    "officialPageUrl": "https://ningu-noda.owst.jp/",
+    "reservationUrl": "https://www.hotpepper.jp/strJ003851327/yoyaku/hpds/?ROUTE_KBN=20"
+  },
+  "tondabayashi": {
+    "officialPageUrl": "https://ning-tondabayashi.owst.jp/",
+    "reservationUrl": "https://www.hotpepper.jp/strJ003872626/yoyaku/hpds/?ROUTE_KBN=20"
+  },
+  "osaka-umeda": {
+    "officialPageUrl": "https://ninguumeda.owst.jp/",
+    "reservationUrl": "https://www.hotpepper.jp/strJ004402562/yoyaku/hpds/?ROUTE_KBN=20"
+  },
+  "umeda-higashidori": {
+    "officialPageUrl": "https://ninguhigashidori.owst.jp/",
+    "reservationUrl": "https://www.hotpepper.jp/strJ004660540/yoyaku/hpds/?ROUTE_KBN=20"
+  }
+}
