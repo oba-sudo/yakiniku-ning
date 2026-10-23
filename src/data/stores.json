@@ -1,0 +1,5343 @@
+{
+  "updated": "2026-10-23",
+  "stores": [
+    {
+      "slug": "higashishinsaibashi",
+      "name": "YAKINIKUEN 忍鬨 東心斎橋総本店",
+      "postalCode": "542-0083",
+      "address": "大阪府大阪市中央区東心斎橋1-6-32 1F",
+      "addressLocality": "大阪市",
+      "addressRegion": "大阪府",
+      "telephone": "06-6484-6995",
+      "telephoneInternational": "+81664846995",
+      "openingHoursText": "全日 16:00～24:00（L.O. 23:00）",
+      "openingHoursSchema": [
+        {
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "16:00",
+          "closes": "00:00"
+        }
+      ],
+      "closedText": "不定休",
+      "access": "地下鉄御堂筋線 心斎橋駅から徒歩10分／長堀橋駅から徒歩4分",
+      "menuSource": "本店・堺筋本町新メニュー.pdf",
+      "menuStatus": "available",
+      "menuItemCount": 104,
+      "verifiedDate": "2026-10-23",
+      "menu": [
+        {
+          "category": "名物",
+          "name": "元祖厚切りネギ包みタン",
+          "price": 1980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "元祖ユッケ載せキンパ",
+          "price": 1380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "タンユッケ",
+          "price": 1380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "極上黒毛和牛あぶり寿司",
+          "price": 1280,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "新鮮焼きレバー",
+          "price": 880,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "極上ロース山葵ユッケ",
+          "price": 1480,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "レアステーキユッケ",
+          "price": 1380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "生センマイ刺し",
+          "price": 880,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "キムチ",
+          "price": 380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "ナムル",
+          "price": 380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "韓国のり",
+          "price": 300,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "焼きニンニク",
+          "price": 480,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "キムチ盛り合わせ",
+          "price": 750,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "ナムル盛り合わせ",
+          "price": 750,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "タン",
+          "name": "極上厚切り塩タン",
+          "price": 1980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "上塩タン",
+          "price": 1980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "タンカルビ",
+          "price": 780,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "牛タン食べ比べセット",
+          "price": 6900,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "セット・コース",
+          "name": "忍鬨セット（約2人前）",
+          "price": 8800,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "和牛",
+          "name": "上ロース",
+          "price": 1880,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "上カルビ",
+          "price": 1680,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "カルビ",
+          "price": 1380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛ハラミ",
+          "price": 1980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "ハラミ",
+          "price": 1380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛赤身",
+          "price": 1380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛赤身しゃぶ焼き",
+          "price": 1480,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "マルシン柚子胡椒焼き",
+          "price": 1580,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛ネギ載せしゃぶ焼き",
+          "price": 1380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "国産ヘレのサイコロステーキ",
+          "price": 2280,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "センボン（数量限定）",
+          "price": 980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "マルチョウ",
+          "price": 880,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "上ミノ",
+          "price": 980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "コリコリ",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "ツラミ",
+          "price": 980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "焼きレバー",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "コリコリタン柚子胡椒風味",
+          "price": 700,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "豚バラ",
+          "price": 580,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "豚トロ",
+          "price": 580,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "鶏もも",
+          "price": 580,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "ウインナー",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "玉ねぎ",
+          "price": 300,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "エリンギ",
+          "price": 400,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "やまいも",
+          "price": 400,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "チシャ菜",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "野菜",
+          "name": "ニンニクスライス",
+          "price": 100,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "野菜",
+          "name": "青唐辛子",
+          "price": 100,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ライス",
+          "price": 350,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "石焼ビビンバ",
+          "price": 980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ビビンバ",
+          "price": 950,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "玉子スープ",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ユッケジャンスープ",
+          "price": 600,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "特製冷麺",
+          "price": 950,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "クッパ",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ユッケジャンクッパ",
+          "price": 650,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "梅紫蘇冷麺",
+          "price": 980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "コース",
+          "name": "忍鬨コース（飲み放題付）",
+          "price": 7500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "ピスタチオ",
+          "price": 450,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "プレミアムバニラ",
+          "price": 280,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "日替わりジェラート",
+          "price": null,
+          "note": "価格の記載なし（スタッフへご確認くださいと記載）",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "ドリンク",
+          "name": "角ハイボール",
+          "price": 650,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "角メガハイボール",
+          "price": 950,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "フロンティアハイボール",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "フロンティアメガハイボール",
+          "price": 800,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "碧ハイボール",
+          "price": 800,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "碧ロック",
+          "price": 1400,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "響ハイボール",
+          "price": 1300,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "響ロック",
+          "price": 2500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎ロック",
+          "price": 1900,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "白州ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "白州ロック",
+          "price": 1900,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "知多ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "知多ロック",
+          "price": 1900,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "プレミアムモルツ 生ビール（中）",
+          "price": 650,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "プレミアムモルツ 生ビール（小）",
+          "price": 450,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒ 瓶ビール",
+          "price": 750,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒゼロ ノンアル",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "こだわり酒場のレモンサワー",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "こだわり酒場のレモンサワー メガ",
+          "price": 800,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジノン無糖レモンサワー",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジノン無糖グレフルサワー",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "チューハイ（プレーン）",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "チューハイ（カルピス）",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "大隅（芋）",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "大隅（麦）",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "JJ",
+          "price": 600,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "翠ジンソーダ",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎梅酒",
+          "price": 650,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ソウルマッコリ",
+          "price": 1800,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "チャミスル フレッシュ",
+          "price": 1000,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "黒ウーロン茶",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ウーロン茶",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "緑茶",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "コーン茶",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジャスミン茶",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "コーラ",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジンジャーエール",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "アップルジュース",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "オレンジジュース",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "カルピスウォーター",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "カルピスソーダ",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "炭酸水",
+          "price": 150,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "飲み放題",
+          "name": "単品飲み放題（アルコールあり）",
+          "price": 2000,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 11
+        },
+        {
+          "category": "飲み放題",
+          "name": "単品飲み放題（ソフトドリンクのみ）",
+          "price": 700,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "slug": "higashishinsaibashi-apa",
+      "name": "YAKINIKUEN 忍鬨 東心斎橋2号店（アパホテル内）",
+      "postalCode": "542-0083",
+      "address": "大阪府大阪市中央区東心斎橋1-7-10 アパホテル1F",
+      "addressLocality": "大阪市",
+      "addressRegion": "大阪府",
+      "telephone": "06-6224-0993",
+      "telephoneInternational": "+81662240993",
+      "openingHoursText": "朝食：平日 7:00～10:00／土日祝 7:30～10:00（最終入店9:30）<br>ディナー：全日 15:00～24:00（料理L.O. 23:00）",
+      "openingHoursSchema": [
+        {
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "10:00"
+        },
+        {
+          "dayOfWeek": [
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "07:30",
+          "closes": "10:00"
+        },
+        {
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "15:00",
+          "closes": "00:00"
+        }
+      ],
+      "closedText": "不定休",
+      "access": "大阪メトロ 長堀橋駅7番出口から徒歩2分／心斎橋駅6番出口から徒歩6分",
+      "menuSource": "アパ・東通り新メニュー.pdf",
+      "menuStatus": "available",
+      "menuItemCount": 106,
+      "verifiedDate": "2026-10-23",
+      "menu": [
+        {
+          "category": "名物",
+          "name": "元祖厚切りネギ包みタン",
+          "price": 1980,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "元祖ユッケ載せキンパ",
+          "price": 1380,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "タンユッケ",
+          "price": 1380,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "極上黒毛和牛あぶり寿司",
+          "price": 1280,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "新鮮焼きレバー",
+          "price": 880,
+          "note": "加熱用と記載。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "極上ロース山葵ユッケ",
+          "price": 1480,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "レアステーキユッケ",
+          "price": 1380,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "生センマイ刺し",
+          "price": 880,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "キムチ",
+          "price": 380,
+          "note": "白菜・大根・胡瓜と記載。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "ナムル",
+          "price": 380,
+          "note": "豆もやし・法蓮草・ジャガイモと記載。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "韓国のり",
+          "price": 300,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "焼きニンニク",
+          "price": 480,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "キムチ盛り合わせ",
+          "price": 750,
+          "note": "キムチ欄に配置された「盛り合わせ」。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "ナムル盛り合わせ",
+          "price": 750,
+          "note": "ナムル欄に配置された「盛り合わせ」。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "タン",
+          "name": "極上厚切り塩タン",
+          "price": 1980,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "上塩タン",
+          "price": 1980,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "タンカルビ",
+          "price": 780,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "牛タン食べ比べセット",
+          "price": 6900,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "忍鬨セット約2人前",
+          "price": 8800,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "和牛",
+          "name": "上ロース",
+          "price": 1880,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "上カルビ",
+          "price": 1680,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "カルビ",
+          "price": 1380,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛ハラミ",
+          "price": 1980,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "ハラミ",
+          "price": 1380,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛赤身",
+          "price": 1380,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛赤身しゃぶ焼き",
+          "price": 1480,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "マルシン柚子胡椒焼き",
+          "price": 1580,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛ネギ載せしゃぶ焼き",
+          "price": 1380,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "国産ヘレのサイコロステーキ",
+          "price": 2280,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "センボン",
+          "price": 980,
+          "note": "数量限定と記載。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "マルチョウ",
+          "price": 880,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "上ミノ",
+          "price": 980,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "コリコリ",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "ツラミ",
+          "price": 980,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "焼きレバー",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "コリコリタン柚子胡椒風味",
+          "price": 700,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "豚バラ",
+          "price": 580,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "豚トロ",
+          "price": 580,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "鶏もも",
+          "price": 580,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "ウインナー",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "玉ねぎ",
+          "price": 300,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "エリンギ",
+          "price": 400,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "やまいも",
+          "price": 400,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "チシャ菜",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "野菜",
+          "name": "ニンニクスライス",
+          "price": 100,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "野菜",
+          "name": "青唐辛子",
+          "price": 100,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ライス",
+          "price": 350,
+          "note": "国産米使用と記載。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "石焼ビビンバ",
+          "price": 980,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ビビンバ",
+          "price": 950,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "玉子スープ",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ユッケジャンスープ",
+          "price": 600,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "特製冷麺",
+          "price": 950,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "クッパ",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ユッケジャンクッパ",
+          "price": 650,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "梅紫蘇冷麺",
+          "price": 980,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "コース",
+          "name": "忍鬨コース（飲み放題付）",
+          "price": 7500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "ピスタチオ",
+          "price": 450,
+          "note": "イタリアンジェラート。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "プレミアムバニラ",
+          "price": 280,
+          "note": "イタリアンジェラート。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "日替わりジェラート",
+          "price": null,
+          "note": "数値価格は掲載されておらず、「スタッフへご確認ください」と記載。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "ドリンク",
+          "name": "角 ハイボール",
+          "price": 650,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "角 メガ",
+          "price": 950,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "フロンティア ハイボール",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "フロンティア メガ",
+          "price": 800,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "碧 ハイボール",
+          "price": 800,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "碧 ロック",
+          "price": 1400,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "響 ハイボール",
+          "price": 1300,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "響 ロック",
+          "price": 2500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎 ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎 ロック",
+          "price": 1900,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "白州 ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "白州 ロック",
+          "price": 1900,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "知多 ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "知多 ロック",
+          "price": 1900,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒスーパードライ 生ビール（ギガ）",
+          "price": 1500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒスーパードライ 生ビール（大）",
+          "price": 1100,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒスーパードライ 生ビール（中）",
+          "price": 650,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒスーパードライ 生ビール（小）",
+          "price": 450,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "赤星 瓶ビール",
+          "price": 750,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒゼロ ノンアル",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "こだわり酒場のレモンサワー",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "こだわり酒場のレモンサワー メガ",
+          "price": 800,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジノン無糖レモンサワー",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジノン無糖グレフルサワー",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "プレーンチューハイ",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "カルピスチューハイ",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "大隅（芋）",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "大隅（麦）",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "JJ",
+          "price": 600,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "翠ジンソーダ",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎梅酒",
+          "price": 650,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ソウルマッコリ（ボトル）",
+          "price": 1800,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "チャミスルフレッシュ（ボトル）",
+          "price": 1000,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "黒ウーロン茶",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ウーロン茶",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "緑茶",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "コーン茶",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジャスミン茶",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "コーラ",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジンジャーエール",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "アップルジュース",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "オレンジジュース",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "カルピスウォーター",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "カルピスソーダ",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "炭酸水",
+          "price": 150,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "単品飲み放題（アルコールあり）",
+          "price": 2000,
+          "note": "120分制（90分L.o.）・グループ全員での注文と記載。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 11
+        },
+        {
+          "category": "ドリンク",
+          "name": "単品飲み放題（ソフトドリンクのみ）",
+          "price": 700,
+          "note": "120分制（90分L.o.）・グループ全員での注文と記載。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "slug": "nihonbashi",
+      "name": "YAKINIKUEN 忍鬨 日本橋店",
+      "postalCode": "542-0073",
+      "address": "大阪府大阪市中央区日本橋1-18-4 1F",
+      "addressLocality": "大阪市",
+      "addressRegion": "大阪府",
+      "telephone": "06-6695-7102",
+      "telephoneInternational": "+81666957102",
+      "openingHoursText": "月～木 17:00～24:00（料理L.O. 23:00／ドリンクL.O. 23:30）<br>金～日 16:00～24:00（料理L.O. 23:00／ドリンクL.O. 23:30）",
+      "openingHoursSchema": [
+        {
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "opens": "17:00",
+          "closes": "00:00"
+        },
+        {
+          "dayOfWeek": [
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "16:00",
+          "closes": "00:00"
+        }
+      ],
+      "closedText": "不定休",
+      "access": "大阪メトロ堺筋線・千日前線 日本橋駅4番出口から徒歩約2分／近鉄奈良線 近鉄日本橋駅4番出口から徒歩約2分",
+      "menuSource": "日本橋新メニュー.pdf",
+      "menuStatus": "available",
+      "menuItemCount": 104,
+      "verifiedDate": "2026-10-23",
+      "menu": [
+        {
+          "category": "名物",
+          "name": "元祖厚切りネギ包みタン",
+          "price": 1980,
+          "note": "3ページにも名称短縮表記・同一価格で再掲。",
+          "source": "日本橋新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "元祖ユッケ載せキンパ",
+          "price": 1380,
+          "note": "6ページにも名称短縮表記・同一価格で再掲。",
+          "source": "日本橋新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "タンユッケ",
+          "price": 1380,
+          "note": "2ページにも同一品目・同一価格で再掲。",
+          "source": "日本橋新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "極上黒毛和牛あぶり寿司",
+          "price": 1280,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "新鮮焼きレバー",
+          "price": 880,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "極上ロース山葵ユッケ",
+          "price": 1480,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "レアステーキユッケ",
+          "price": 1380,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "生センマイ刺し",
+          "price": 880,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "キムチ",
+          "price": 380,
+          "note": "白菜・大根・胡瓜から選択。",
+          "source": "日本橋新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "ナムル",
+          "price": 380,
+          "note": "豆もやし・法蓮草・ジャガイモから選択。",
+          "source": "日本橋新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "韓国のり",
+          "price": 300,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "焼きニンニク",
+          "price": 480,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "キムチ盛り合わせ",
+          "price": 750,
+          "note": "メニューのキムチ欄に「盛り合わせ」と表記。",
+          "source": "日本橋新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "ナムル盛り合わせ",
+          "price": 750,
+          "note": "メニューのナムル欄に「盛り合わせ」と表記。",
+          "source": "日本橋新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "タン",
+          "name": "極上厚切り塩タン",
+          "price": 1980,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "上塩タン",
+          "price": 1980,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "タンカルビ",
+          "price": 780,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "牛タン食べ比べセット",
+          "price": 6900,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "コース・セット",
+          "name": "忍鬨セット（約2人前）",
+          "price": 8800,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "和牛",
+          "name": "上ロース",
+          "price": 1880,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "上カルビ",
+          "price": 1680,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "カルビ",
+          "price": 1380,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛ハラミ",
+          "price": 1980,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "ハラミ",
+          "price": 1380,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛赤身",
+          "price": 1380,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛赤身しゃぶ焼き",
+          "price": 1480,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "マルシン柚子胡椒焼き",
+          "price": 1580,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛ネギ載せしゃぶ焼き",
+          "price": 1380,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "国産ヘレのサイコロステーキ",
+          "price": 2280,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "センボン（数量限定）",
+          "price": 980,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "マルチョウ",
+          "price": 880,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "上ミノ",
+          "price": 980,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "コリコリ",
+          "price": 550,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "ツラミ",
+          "price": 980,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "焼きレバー",
+          "price": 550,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "コリコリタン柚子胡椒風味",
+          "price": 700,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "豚バラ",
+          "price": 580,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "豚トロ",
+          "price": 580,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "鶏もも",
+          "price": 580,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "ウインナー",
+          "price": 550,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "玉ねぎ",
+          "price": 300,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "エリンギ",
+          "price": 400,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "やまいも",
+          "price": 400,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "チシャ菜",
+          "price": 550,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "野菜",
+          "name": "ニンニクスライス",
+          "price": 100,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "野菜",
+          "name": "青唐辛子",
+          "price": 100,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ライス",
+          "price": 350,
+          "note": "国産米使用。",
+          "source": "日本橋新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "石焼ビビンバ",
+          "price": 980,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ビビンバ",
+          "price": 950,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "玉子スープ",
+          "price": 500,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ユッケジャンスープ",
+          "price": 600,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "特製冷麺",
+          "price": 950,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "クッパ",
+          "price": 550,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ユッケジャンクッパ",
+          "price": 650,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "梅紫蘇冷麺",
+          "price": 980,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "コース",
+          "name": "忍鬨コース（飲み放題付）",
+          "price": 7500,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "ピスタチオ",
+          "price": 450,
+          "note": "イタリアンジェラート。",
+          "source": "日本橋新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "プレミアムバニラ",
+          "price": 280,
+          "note": "イタリアンジェラート。",
+          "source": "日本橋新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "日替わりジェラート",
+          "price": null,
+          "note": "価格の記載なし（「スタッフへご確認ください」と表記）。",
+          "source": "日本橋新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "ドリンク",
+          "name": "角 ハイボール",
+          "price": 650,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "角 メガハイボール",
+          "price": 950,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "フロンティア ハイボール",
+          "price": 550,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "フロンティア メガハイボール",
+          "price": 800,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "碧 ハイボール",
+          "price": 800,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "碧 ロック",
+          "price": 1400,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "響 ハイボール",
+          "price": 1300,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "響 ロック",
+          "price": 2500,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎 ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎 ロック",
+          "price": 1900,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "白州 ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "白州 ロック",
+          "price": 1900,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "知多 ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "知多 ロック",
+          "price": 1900,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "サントリー香るエール 生ビール（中）",
+          "price": 650,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "サントリー香るエール 生ビール（小）",
+          "price": 450,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒ 瓶ビール",
+          "price": 750,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒゼロ ノンアル",
+          "price": 550,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "こだわり酒場のレモンサワー",
+          "price": 550,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "こだわり酒場のメガレモンサワー",
+          "price": 800,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジノン無糖レモンサワー",
+          "price": 550,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジノン無糖グレフルサワー",
+          "price": 550,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "チューハイ（プレーン）",
+          "price": 550,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "チューハイ（カルピス）",
+          "price": 550,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "大隅（芋）",
+          "price": 550,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "大隅（麦）",
+          "price": 550,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "JJ",
+          "price": 600,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "翠ジンソーダ",
+          "price": 550,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎梅酒",
+          "price": 650,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ソウルマッコリ（ボトル）",
+          "price": 1800,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "チャミスルフレッシュ（ボトル）",
+          "price": 1000,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "黒ウーロン茶",
+          "price": 550,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ウーロン茶",
+          "price": 500,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "緑茶",
+          "price": 500,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "コーン茶",
+          "price": 500,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジャスミン茶",
+          "price": 500,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "コーラ",
+          "price": 500,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジンジャーエール",
+          "price": 500,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "アップルジュース",
+          "price": 500,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "オレンジジュース",
+          "price": 500,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "カルピスウォーター",
+          "price": 500,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "カルピスソーダ",
+          "price": 500,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "炭酸水",
+          "price": 150,
+          "note": "",
+          "source": "日本橋新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "飲み放題",
+          "name": "単品飲み放題（アルコールあり）",
+          "price": 2000,
+          "note": "120分制（90分L.O.）、グラス交換制。",
+          "source": "日本橋新メニュー.pdf",
+          "page": 11
+        },
+        {
+          "category": "飲み放題",
+          "name": "単品飲み放題（ソフトドリンクのみ）",
+          "price": 700,
+          "note": "120分制（90分L.O.）、グラス交換制。",
+          "source": "日本橋新メニュー.pdf",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "slug": "sakaisujihommachi",
+      "name": "YAKINIKUEN 忍鬨 堺筋本町店",
+      "postalCode": "541-0051",
+      "address": "大阪府大阪市中央区備後町2-4-14 ピカソビル備後町B1F",
+      "addressLocality": "大阪市",
+      "addressRegion": "大阪府",
+      "telephone": "06-4708-4880",
+      "telephoneInternational": "+81647084880",
+      "openingHoursText": "全日 17:00～24:00（L.O. 23:00）",
+      "openingHoursSchema": [
+        {
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "17:00",
+          "closes": "00:00"
+        }
+      ],
+      "closedText": "なし",
+      "access": "大阪メトロ堺筋線 堺筋本町駅17番出口から徒歩約5分／大阪メトロ中央線 堺筋本町駅12番出口から徒歩約5分",
+      "menuSource": "本店・堺筋本町新メニュー.pdf",
+      "menuStatus": "available",
+      "menuItemCount": 104,
+      "verifiedDate": "2026-10-23",
+      "menu": [
+        {
+          "category": "名物",
+          "name": "元祖厚切りネギ包みタン",
+          "price": 1980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "元祖ユッケ載せキンパ",
+          "price": 1380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "タンユッケ",
+          "price": 1380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "極上黒毛和牛あぶり寿司",
+          "price": 1280,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "新鮮焼きレバー",
+          "price": 880,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "極上ロース山葵ユッケ",
+          "price": 1480,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "レアステーキユッケ",
+          "price": 1380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "生センマイ刺し",
+          "price": 880,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "キムチ",
+          "price": 380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "ナムル",
+          "price": 380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "韓国のり",
+          "price": 300,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "焼きニンニク",
+          "price": 480,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "キムチ盛り合わせ",
+          "price": 750,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "ナムル盛り合わせ",
+          "price": 750,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "タン",
+          "name": "極上厚切り塩タン",
+          "price": 1980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "上塩タン",
+          "price": 1980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "タンカルビ",
+          "price": 780,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "牛タン食べ比べセット",
+          "price": 6900,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "セット・コース",
+          "name": "忍鬨セット（約2人前）",
+          "price": 8800,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "和牛",
+          "name": "上ロース",
+          "price": 1880,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "上カルビ",
+          "price": 1680,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "カルビ",
+          "price": 1380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛ハラミ",
+          "price": 1980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "ハラミ",
+          "price": 1380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛赤身",
+          "price": 1380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛赤身しゃぶ焼き",
+          "price": 1480,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "マルシン柚子胡椒焼き",
+          "price": 1580,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛ネギ載せしゃぶ焼き",
+          "price": 1380,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "国産ヘレのサイコロステーキ",
+          "price": 2280,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "センボン（数量限定）",
+          "price": 980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "マルチョウ",
+          "price": 880,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "上ミノ",
+          "price": 980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "コリコリ",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "ツラミ",
+          "price": 980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "焼きレバー",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "コリコリタン柚子胡椒風味",
+          "price": 700,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "豚バラ",
+          "price": 580,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "豚トロ",
+          "price": 580,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "鶏もも",
+          "price": 580,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "ウインナー",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "玉ねぎ",
+          "price": 300,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "エリンギ",
+          "price": 400,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "やまいも",
+          "price": 400,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "チシャ菜",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "野菜",
+          "name": "ニンニクスライス",
+          "price": 100,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "野菜",
+          "name": "青唐辛子",
+          "price": 100,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ライス",
+          "price": 350,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "石焼ビビンバ",
+          "price": 980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ビビンバ",
+          "price": 950,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "玉子スープ",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ユッケジャンスープ",
+          "price": 600,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "特製冷麺",
+          "price": 950,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "クッパ",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ユッケジャンクッパ",
+          "price": 650,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "梅紫蘇冷麺",
+          "price": 980,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "コース",
+          "name": "忍鬨コース（飲み放題付）",
+          "price": 7500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "ピスタチオ",
+          "price": 450,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "プレミアムバニラ",
+          "price": 280,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "日替わりジェラート",
+          "price": null,
+          "note": "価格の記載なし（スタッフへご確認くださいと記載）",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "ドリンク",
+          "name": "角ハイボール",
+          "price": 650,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "角メガハイボール",
+          "price": 950,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "フロンティアハイボール",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "フロンティアメガハイボール",
+          "price": 800,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "碧ハイボール",
+          "price": 800,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "碧ロック",
+          "price": 1400,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "響ハイボール",
+          "price": 1300,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "響ロック",
+          "price": 2500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎ロック",
+          "price": 1900,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "白州ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "白州ロック",
+          "price": 1900,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "知多ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "知多ロック",
+          "price": 1900,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "プレミアムモルツ 生ビール（中）",
+          "price": 650,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "プレミアムモルツ 生ビール（小）",
+          "price": 450,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒ 瓶ビール",
+          "price": 750,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒゼロ ノンアル",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "こだわり酒場のレモンサワー",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "こだわり酒場のレモンサワー メガ",
+          "price": 800,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジノン無糖レモンサワー",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジノン無糖グレフルサワー",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "チューハイ（プレーン）",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "チューハイ（カルピス）",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "大隅（芋）",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "大隅（麦）",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "JJ",
+          "price": 600,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "翠ジンソーダ",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎梅酒",
+          "price": 650,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ソウルマッコリ",
+          "price": 1800,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "チャミスル フレッシュ",
+          "price": 1000,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "黒ウーロン茶",
+          "price": 550,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ウーロン茶",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "緑茶",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "コーン茶",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジャスミン茶",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "コーラ",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジンジャーエール",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "アップルジュース",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "オレンジジュース",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "カルピスウォーター",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "カルピスソーダ",
+          "price": 500,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "炭酸水",
+          "price": 150,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "飲み放題",
+          "name": "単品飲み放題（アルコールあり）",
+          "price": 2000,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 11
+        },
+        {
+          "category": "飲み放題",
+          "name": "単品飲み放題（ソフトドリンクのみ）",
+          "price": 700,
+          "note": "",
+          "source": "本店・堺筋本町新メニュー.pdf",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "slug": "noda",
+      "name": "YAKINIKUEN 忍鬨 野田店",
+      "postalCode": "553-0006",
+      "address": "大阪府大阪市福島区吉野3-6-3",
+      "addressLocality": "大阪市",
+      "addressRegion": "大阪府",
+      "telephone": "06-6616-8955",
+      "telephoneInternational": "+81666168955",
+      "openingHoursText": "月・水～日・祝日・祝前日 17:00～24:00（L.O. 23:00）",
+      "openingHoursSchema": [
+        {
+          "dayOfWeek": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "17:00",
+          "closes": "00:00"
+        }
+      ],
+      "closedText": "火（毎週火曜日）",
+      "access": "JR大阪環状線 野田（JR）駅出口から徒歩約1分／阪神本線 野田（阪神）駅南側出口から徒歩約13分",
+      "menuSource": "野田新メニュー.pdf",
+      "menuStatus": "available",
+      "menuItemCount": 105,
+      "verifiedDate": "2026-10-23",
+      "menu": [
+        {
+          "category": "名物",
+          "name": "元祖厚切りネギ包みタン",
+          "price": 1980,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "元祖ユッケ載せキンパ",
+          "price": 1380,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "タンユッケ",
+          "price": 1380,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "極上黒毛和牛あぶり寿司",
+          "price": 1280,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "新鮮焼きレバー",
+          "price": 880,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "極上ロース山葵ユッケ",
+          "price": 1480,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "レアステーキユッケ",
+          "price": 1380,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "生センマイ刺し",
+          "price": 880,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "キムチ・一品",
+          "name": "キムチ",
+          "price": 380,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "キムチ・一品",
+          "name": "ナムル",
+          "price": 380,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "キムチ・一品",
+          "name": "韓国のり",
+          "price": 300,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "キムチ・一品",
+          "name": "焼きニンニク",
+          "price": 480,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "キムチ・一品",
+          "name": "キムチ盛り合わせ",
+          "price": 750,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "キムチ・一品",
+          "name": "ナムル盛り合わせ",
+          "price": 750,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "タン",
+          "name": "極上厚切り塩タン",
+          "price": 1980,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "上塩タン",
+          "price": 1980,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "タンカルビ",
+          "price": 780,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "牛タン食べ比べセット",
+          "price": 6900,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "忍鬨セット（約2人前）",
+          "price": 8800,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "和牛",
+          "name": "上ロース",
+          "price": 1880,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "上カルビ",
+          "price": 1680,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "カルビ",
+          "price": 1380,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛ハラミ",
+          "price": 1980,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "ハラミ",
+          "price": 1380,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛赤身",
+          "price": 1380,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛赤身しゃぶ焼き",
+          "price": 1480,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "マルシン柚子胡椒焼き",
+          "price": 1580,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛ネギ載せしゃぶ焼き",
+          "price": 1380,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "国産ヘレのサイコロステーキ",
+          "price": 2280,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "センボン（数量限定）",
+          "price": 980,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "マルチョウ",
+          "price": 880,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "上ミノ",
+          "price": 980,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "コリコリ",
+          "price": 550,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "ツラミ",
+          "price": 980,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "焼きレバー",
+          "price": 550,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "コリコリタン柚子胡椒風味",
+          "price": 700,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "豚バラ",
+          "price": 580,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "豚トロ",
+          "price": 580,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "鶏もも",
+          "price": 580,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "ウインナー",
+          "price": 550,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "玉ねぎ",
+          "price": 300,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "エリンギ",
+          "price": 400,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "やまいも",
+          "price": 400,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "チシャ菜",
+          "price": 550,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ライス",
+          "price": 350,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "野菜",
+          "name": "ニンニクスライス",
+          "price": 100,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "野菜",
+          "name": "青唐辛子",
+          "price": 100,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "石焼ビビンバ",
+          "price": 980,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ビビンバ",
+          "price": 950,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "玉子スープ",
+          "price": 500,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ユッケジャンスープ",
+          "price": 600,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "特製冷麺",
+          "price": 950,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "クッパ",
+          "price": 550,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ユッケジャンクッパ",
+          "price": 650,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "梅紫蘇冷麺",
+          "price": 980,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "コース",
+          "name": "忍鬨コース（飲み放題付）",
+          "price": 7500,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "ピスタチオ",
+          "price": 450,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "プレミアムバニラ",
+          "price": 280,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "日替わりジェラート",
+          "price": null,
+          "note": "価格の記載はなく、「スタッフへご確認ください」と記載。",
+          "source": "野田新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "ドリンク",
+          "name": "角ハイボール",
+          "price": 650,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "角ハイボール（メガ）",
+          "price": 950,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "フロンティアハイボール",
+          "price": 180,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "フロンティアハイボール（メガ）",
+          "price": 360,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "碧ハイボール",
+          "price": 800,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "碧ロック",
+          "price": 1400,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "響ハイボール",
+          "price": 1300,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "響ロック",
+          "price": 2500,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎ロック",
+          "price": 1900,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "白州ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "白州ロック",
+          "price": 1900,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "知多ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "知多ロック",
+          "price": 1900,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒスーパードライ 生ビール（ギガ）",
+          "price": 1500,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒスーパードライ 生ビール（大）",
+          "price": 1100,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒスーパードライ 生ビール（中）",
+          "price": 280,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "赤星 瓶ビール",
+          "price": 750,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒゼロ（ノンアル）",
+          "price": 550,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "こだわり酒場のレモンサワー",
+          "price": 550,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "こだわり酒場のレモンサワー（メガ）",
+          "price": 800,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジノン無糖レモンサワー",
+          "price": 99,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジノン無糖グレフルサワー",
+          "price": 99,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "チューハイ（プレーン）",
+          "price": 550,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "チューハイ（カルピス）",
+          "price": 550,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "大隅（芋）",
+          "price": 550,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "大隅（麦）",
+          "price": 550,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "JJ",
+          "price": 600,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "翠ジンソーダ",
+          "price": 550,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎梅酒",
+          "price": 650,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ソウルマッコリ（ボトル）",
+          "price": 1800,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "チャミスルフレッシュ（ボトル）",
+          "price": 1000,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "黒ウーロン茶",
+          "price": 550,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ウーロン茶",
+          "price": 500,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "緑茶",
+          "price": 500,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "コーン茶",
+          "price": 500,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジャスミン茶",
+          "price": 500,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "コーラ",
+          "price": 500,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジンジャーエール",
+          "price": 500,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "アップルジュース",
+          "price": 500,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "オレンジジュース",
+          "price": 500,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "カルピスウォーター",
+          "price": 500,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "カルピスソーダ",
+          "price": 500,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "炭酸水",
+          "price": 150,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "単品飲み放題（アルコールあり）",
+          "price": 2000,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 11
+        },
+        {
+          "category": "ドリンク",
+          "name": "単品飲み放題（ソフトドリンクのみ）",
+          "price": 700,
+          "note": "",
+          "source": "野田新メニュー.pdf",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "slug": "tondabayashi",
+      "name": "YAKINIKUEN 忍鬨 富田林店",
+      "postalCode": "584-0092",
+      "address": "大阪府富田林市昭和町1-2-34",
+      "addressLocality": "富田林市",
+      "addressRegion": "大阪府",
+      "telephone": "0721-55-4129",
+      "telephoneInternational": "+81721554129",
+      "openingHoursText": "全日 17:00～23:00（L.O. 22:00）",
+      "openingHoursSchema": [
+        {
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "17:00",
+          "closes": "23:00"
+        }
+      ],
+      "closedText": "毎週木曜日／第2・第4水曜日",
+      "access": "近鉄長野線 富田林駅北口から徒歩約10分／近鉄長野線 富田林西口駅出口から徒歩約11分",
+      "menuSource": "添付資料なし",
+      "menuStatus": "pending",
+      "menuItemCount": 0,
+      "verifiedDate": "2026-10-23",
+      "menu": []
+    },
+    {
+      "slug": "osaka-umeda",
+      "name": "YAKINIKUEN 忍鬨 大阪梅田店",
+      "postalCode": "530-0057",
+      "address": "大阪府大阪市北区曽根崎2-16-22 ジャスミン曽根崎ビル9F",
+      "addressLocality": "大阪市",
+      "addressRegion": "大阪府",
+      "telephone": "06-6926-4604",
+      "telephoneInternational": "+81669264604",
+      "openingHoursText": "月～木 17:00～24:00（料理L.O. 23:00／ドリンクL.O. 23:30）<br>金・土 16:00～24:00（料理L.O. 23:00／ドリンクL.O. 23:30）<br>日・祝日 16:00～23:00（料理L.O. 22:00／ドリンクL.O. 22:30）",
+      "openingHoursSchema": [
+        {
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "opens": "17:00",
+          "closes": "00:00"
+        },
+        {
+          "dayOfWeek": [
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "16:00",
+          "closes": "00:00"
+        },
+        {
+          "dayOfWeek": [
+            "Sunday"
+          ],
+          "opens": "16:00",
+          "closes": "23:00"
+        }
+      ],
+      "closedText": "不定休",
+      "access": "大阪メトロ御堂筋線 梅田駅から徒歩約3分／大阪メトロ谷町線 東梅田駅から徒歩約3分／JR大阪駅御堂筋南口から徒歩約7分",
+      "menuSource": "添付資料なし",
+      "menuStatus": "pending",
+      "menuItemCount": 0,
+      "verifiedDate": "2026-10-23",
+      "menu": []
+    },
+    {
+      "slug": "umeda-higashidori",
+      "name": "YAKINIKUEN 忍鬨 梅田東通り店",
+      "postalCode": "530-0027",
+      "address": "大阪府大阪市北区堂山町17-20",
+      "addressLocality": "大阪市",
+      "addressRegion": "大阪府",
+      "telephone": "06-6355-8529",
+      "telephoneInternational": "+81663558529",
+      "openingHoursText": "全日（祝日・祝前日含む）18:00～翌6:00（料理L.O. 翌5:00／ドリンクL.O. 翌5:30）",
+      "openingHoursSchema": [
+        {
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "18:00",
+          "closes": "06:00"
+        }
+      ],
+      "closedText": "なし",
+      "access": "大阪メトロ谷町線 東梅田駅・御堂筋線 梅田駅から徒歩6分／大阪メトロ谷町線 中崎町駅3番出口から徒歩約3分／阪急大阪梅田駅から372m",
+      "menuSource": "アパ・東通り新メニュー.pdf",
+      "menuStatus": "available",
+      "menuItemCount": 106,
+      "verifiedDate": "2026-10-23",
+      "menu": [
+        {
+          "category": "名物",
+          "name": "元祖厚切りネギ包みタン",
+          "price": 1980,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "元祖ユッケ載せキンパ",
+          "price": 1380,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "タンユッケ",
+          "price": 1380,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "名物",
+          "name": "極上黒毛和牛あぶり寿司",
+          "price": 1280,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 1
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "新鮮焼きレバー",
+          "price": 880,
+          "note": "加熱用と記載。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "極上ロース山葵ユッケ",
+          "price": 1480,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "レアステーキユッケ",
+          "price": 1380,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "生センマイ刺し",
+          "price": 880,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "キムチ",
+          "price": 380,
+          "note": "白菜・大根・胡瓜と記載。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "ナムル",
+          "price": 380,
+          "note": "豆もやし・法蓮草・ジャガイモと記載。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "韓国のり",
+          "price": 300,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "焼きニンニク",
+          "price": 480,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "キムチ盛り合わせ",
+          "price": 750,
+          "note": "キムチ欄に配置された「盛り合わせ」。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "前菜・刺身",
+          "name": "ナムル盛り合わせ",
+          "price": 750,
+          "note": "ナムル欄に配置された「盛り合わせ」。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 2
+        },
+        {
+          "category": "タン",
+          "name": "極上厚切り塩タン",
+          "price": 1980,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "上塩タン",
+          "price": 1980,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "タンカルビ",
+          "price": 780,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "牛タン食べ比べセット",
+          "price": 6900,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "タン",
+          "name": "忍鬨セット約2人前",
+          "price": 8800,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 3
+        },
+        {
+          "category": "和牛",
+          "name": "上ロース",
+          "price": 1880,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "上カルビ",
+          "price": 1680,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "カルビ",
+          "price": 1380,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛ハラミ",
+          "price": 1980,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "ハラミ",
+          "price": 1380,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛赤身",
+          "price": 1380,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛赤身しゃぶ焼き",
+          "price": 1480,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "マルシン柚子胡椒焼き",
+          "price": 1580,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "和牛ネギ載せしゃぶ焼き",
+          "price": 1380,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "国産ヘレのサイコロステーキ",
+          "price": 2280,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "和牛",
+          "name": "センボン",
+          "price": 980,
+          "note": "数量限定と記載。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 4
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "マルチョウ",
+          "price": 880,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "上ミノ",
+          "price": 980,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "コリコリ",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "ツラミ",
+          "price": 980,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "焼きレバー",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "コリコリタン柚子胡椒風味",
+          "price": 700,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "豚バラ",
+          "price": 580,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "豚トロ",
+          "price": 580,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "鶏もも",
+          "price": 580,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "ホルモン・その他焼き物",
+          "name": "ウインナー",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "玉ねぎ",
+          "price": 300,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "エリンギ",
+          "price": 400,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "やまいも",
+          "price": 400,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 5
+        },
+        {
+          "category": "野菜",
+          "name": "チシャ菜",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "野菜",
+          "name": "ニンニクスライス",
+          "price": 100,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "野菜",
+          "name": "青唐辛子",
+          "price": 100,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ライス",
+          "price": 350,
+          "note": "国産米使用と記載。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "石焼ビビンバ",
+          "price": 980,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ビビンバ",
+          "price": 950,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "玉子スープ",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ユッケジャンスープ",
+          "price": 600,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "特製冷麺",
+          "price": 950,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "クッパ",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "ユッケジャンクッパ",
+          "price": 650,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "食事・スープ",
+          "name": "梅紫蘇冷麺",
+          "price": 980,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 6
+        },
+        {
+          "category": "コース",
+          "name": "忍鬨コース（飲み放題付）",
+          "price": 7500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "ピスタチオ",
+          "price": 450,
+          "note": "イタリアンジェラート。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "プレミアムバニラ",
+          "price": 280,
+          "note": "イタリアンジェラート。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "デザート",
+          "name": "日替わりジェラート",
+          "price": null,
+          "note": "数値価格は掲載されておらず、「スタッフへご確認ください」と記載。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 7
+        },
+        {
+          "category": "ドリンク",
+          "name": "角 ハイボール",
+          "price": 650,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "角 メガ",
+          "price": 950,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "フロンティア ハイボール",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "フロンティア メガ",
+          "price": 800,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "碧 ハイボール",
+          "price": 800,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "碧 ロック",
+          "price": 1400,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "響 ハイボール",
+          "price": 1300,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "響 ロック",
+          "price": 2500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎 ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎 ロック",
+          "price": 1900,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "白州 ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "白州 ロック",
+          "price": 1900,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "知多 ハイボール",
+          "price": 1100,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "知多 ロック",
+          "price": 1900,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒスーパードライ 生ビール（ギガ）",
+          "price": 1500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒスーパードライ 生ビール（大）",
+          "price": 1100,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒスーパードライ 生ビール（中）",
+          "price": 650,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒスーパードライ 生ビール（小）",
+          "price": 450,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "赤星 瓶ビール",
+          "price": 750,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "アサヒゼロ ノンアル",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 8
+        },
+        {
+          "category": "ドリンク",
+          "name": "こだわり酒場のレモンサワー",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "こだわり酒場のレモンサワー メガ",
+          "price": 800,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジノン無糖レモンサワー",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジノン無糖グレフルサワー",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "プレーンチューハイ",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "カルピスチューハイ",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "大隅（芋）",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "大隅（麦）",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "JJ",
+          "price": 600,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "翠ジンソーダ",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "山崎梅酒",
+          "price": 650,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "ソウルマッコリ（ボトル）",
+          "price": 1800,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "チャミスルフレッシュ（ボトル）",
+          "price": 1000,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 9
+        },
+        {
+          "category": "ドリンク",
+          "name": "黒ウーロン茶",
+          "price": 550,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ウーロン茶",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "緑茶",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "コーン茶",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジャスミン茶",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "コーラ",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "ジンジャーエール",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "アップルジュース",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "オレンジジュース",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "カルピスウォーター",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "カルピスソーダ",
+          "price": 500,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "炭酸水",
+          "price": 150,
+          "note": "",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 10
+        },
+        {
+          "category": "ドリンク",
+          "name": "単品飲み放題（アルコールあり）",
+          "price": 2000,
+          "note": "120分制（90分L.o.）・グループ全員での注文と記載。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 11
+        },
+        {
+          "category": "ドリンク",
+          "name": "単品飲み放題（ソフトドリンクのみ）",
+          "price": 700,
+          "note": "120分制（90分L.o.）・グループ全員での注文と記載。",
+          "source": "アパ・東通り新メニュー.pdf",
+          "page": 11
+        }
+      ]
+    }
+  ]
+}

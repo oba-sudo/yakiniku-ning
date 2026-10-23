@@ -1,0 +1,48 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "ホーム"
+    },
+    {
+      "path": "/stores/",
+      "title": "店舗一覧"
+    },
+    {
+      "path": "/faq/",
+      "title": "よくある質問"
+    },
+    {
+      "path": "/stores/higashishinsaibashi/",
+      "title": "YAKINIKUEN 忍鬨 東心斎橋総本店"
+    },
+    {
+      "path": "/stores/higashishinsaibashi-apa/",
+      "title": "YAKINIKUEN 忍鬨 東心斎橋2号店（アパホテル内）"
+    },
+    {
+      "path": "/stores/nihonbashi/",
+      "title": "YAKINIKUEN 忍鬨 日本橋店"
+    },
+    {
+      "path": "/stores/sakaisujihommachi/",
+      "title": "YAKINIKUEN 忍鬨 堺筋本町店"
+    },
+    {
+      "path": "/stores/noda/",
+      "title": "YAKINIKUEN 忍鬨 野田店"
+    },
+    {
+      "path": "/stores/tondabayashi/",
+      "title": "YAKINIKUEN 忍鬨 富田林店"
+    },
+    {
+      "path": "/stores/osaka-umeda/",
+      "title": "YAKINIKUEN 忍鬨 大阪梅田店"
+    },
+    {
+      "path": "/stores/umeda-higashidori/",
+      "title": "YAKINIKUEN 忍鬨 梅田東通り店"
+    }
+  ]
+}

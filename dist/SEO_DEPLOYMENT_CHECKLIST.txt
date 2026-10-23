@@ -1,0 +1,1 @@
+Set SITE_URL to the final public HTTPS origin, rebuild, and verify the generated canonical tags, og:url, Restaurant JSON-LD URLs, sitemap.xml, and robots.txt before publication. After publication, test that public URLs return HTTP 200 (not 403) and validate sample pages in Google Search Console URL Inspection and Rich Results Test.

@@ -1,0 +1,11 @@
+{
+  "name": "nintoki-store-seo-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "npm run build && node server.mjs",
+    "start": "node server.mjs",
+    "check": "node --check scripts/build.mjs && node --check server.mjs"
+  }
+}
