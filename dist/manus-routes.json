@@ -5,8 +5,28 @@
       "title": "ホーム"
     },
     {
+      "path": "/concept/",
+      "title": "コンセプト"
+    },
+    {
       "path": "/stores/",
-      "title": "店舗一覧"
+      "title": "店舗・メニュー"
+    },
+    {
+      "path": "/news/",
+      "title": "お知らせ"
+    },
+    {
+      "path": "/recruit/",
+      "title": "採用"
+    },
+    {
+      "path": "/company/",
+      "title": "会社概要"
+    },
+    {
+      "path": "/contact/",
+      "title": "お問い合わせ"
     },
     {
       "path": "/faq/",

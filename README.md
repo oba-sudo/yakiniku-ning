@@ -22,6 +22,10 @@ npm run build
 
 メニュー資料が未提供の店舗は、誤ったメニューを出さずに「準備中」と表示します。
 
+## キャンペーン・お知らせとCMS
+
+現段階ではWordPress・Bricksが未契約のため、トップ上部のキャンペーン・最新情報は `src/data/content.json` の暫定投稿データを表示しています。WordPress + Bricksの契約・開設後は、キャンペーンとお知らせをカスタム投稿タイプとして管理し、BricksのQuery Loopへ置き換えます。店舗用投稿タイプ、固定URL、JSON-LD、移行時の301リダイレクトを含む実装仕様は `docs/bricks-cms-handover.md` を参照してください。
+
 ## 本番SEO設定
 
 公開前に、実際のHTTPSドメインを `SITE_URL` として設定してください。これにより、各ページのcanonical、OGP URL、Restaurant JSON-LDのURL／menu／image、sitemap.xml、robots.txtのSitemap行が本番URLで生成されます。

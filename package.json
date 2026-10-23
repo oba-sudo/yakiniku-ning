@@ -3,9 +3,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/build.mjs",
+    "build": "node scripts/build.mjs && node scripts/verify-build.mjs",
     "dev": "npm run build && node server.mjs",
     "start": "node server.mjs",
-    "check": "node --check scripts/build.mjs && node --check server.mjs"
+    "check": "node --check scripts/build.mjs && node --check scripts/verify-build.mjs && node --check server.mjs"
   }
 }
