@@ -42,7 +42,9 @@ Instagramはブランド共通の公式アカウントを設定済みです。LI
 
 ## 素材の配信
 
-ロゴ、料理写真、店舗外観、店内動画はManusプロジェクトストレージの `/manus-storage/` パスを使っています。ManusのPreviewで画像・動画が表示できることを確認済みです。別の静的ホストへ移管する場合は、素材をそのホストの公開ディレクトリへコピーするか、同等の恒久HTTPS URLへ差し替えてください。
+ロゴ、料理写真、店舗外観、店内動画、favicon、apple-touch-iconは、すべてリポジトリ内の `client/public/` に含めています。ビルド時に画像は `dist/images/` と `dist/public/images/` へ、動画は `dist/media/` へコピーされ、サイトでは `/images/ファイル名`・`/media/ファイル名` の絶対パスで参照します。`/manus-storage/` 形式のパスはサイト出力で使用しません。
+
+ヘッダー・フッターのロゴは `client/public/images/nintoki-logo.png` です。提供ロゴの外周にある白背景のみを透明化し、白い文字・白い円環を保持したままトリミングしています。
 
 ## 公開後の優先確認
 

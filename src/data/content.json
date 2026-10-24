@@ -5,7 +5,7 @@
       "publishedAt": "2026-10-23",
       "title": "キャンペーン情報",
       "excerpt": "忍鬨の最新キャンペーンをお知らせします。",
-      "image": "/manus-storage/menu_thick_negi_tan_bb85ada8.jpg",
+      "image": "/images/signature-negi-tan.jpg",
       "url": "https://www.yakiniku-like.com/2026/08/25/yoru-lunch-bangohan/",
       "external": true
     },
@@ -14,7 +14,7 @@
       "publishedAt": "2026-10-23",
       "title": "忍鬨の名物・牛タン",
       "excerpt": "元祖厚切りネギ包みタンをはじめ、肉好きが納得する一皿を。",
-      "image": "/manus-storage/menu_tan_comparison_aae9ee6b.jpg",
+      "image": "/images/tan-comparison.jpg",
       "url": "/concept/",
       "external": false
     },
@@ -23,7 +23,7 @@
       "publishedAt": "2026-10-23",
       "title": "大阪8店舗のご案内",
       "excerpt": "お近くの忍鬨で、精肉店卸直営の焼肉をお楽しみください。",
-      "image": "/manus-storage/nintoki_umeda_exterior_ae800c63.webp",
+      "image": "/images/store-umeda-higashidori.webp",
       "url": "/stores/",
       "external": false
     }

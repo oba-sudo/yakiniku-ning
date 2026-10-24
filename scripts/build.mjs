@@ -4,6 +4,7 @@ import { fileURLToPath } from "node:url";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const dist = path.join(root, "dist");
+const publicDir = path.join(root, "client", "public");
 const storeData = JSON.parse(fs.readFileSync(path.join(root, "src/data/stores.json"), "utf8"));
 const storeLinks = JSON.parse(fs.readFileSync(path.join(root, "src/data/store-links.json"), "utf8"));
 const content = JSON.parse(fs.readFileSync(path.join(root, "src/data/content.json"), "utf8"));
@@ -11,14 +12,16 @@ const stores = storeData.stores.map((store) => ({ ...store, ...storeLinks[store.
 const siteUrl = (process.env.SITE_URL || "").trim().replace(/\/$/, "");
 
 const assets = {
-  logo: "/manus-storage/nintoki_official_logo_33543b83.png",
-  thickTan: "/manus-storage/menu_thick_negi_tan_bb85ada8.jpg",
-  kimbap: "/manus-storage/menu_yukhoe_kimbap_50820597.jpg",
-  tanYukhoe: "/manus-storage/menu_tan_yukhoe_a3f167bd.jpg",
-  tanComparison: "/manus-storage/menu_tan_comparison_aae9ee6b.jpg",
-  nihonbashi: "/manus-storage/nintoki_nihonbashi_exterior_1fd16f33.png",
-  umeda: "/manus-storage/nintoki_umeda_exterior_ae800c63.webp",
-  interiorVideo: "/manus-storage/nintoki_video_01_cb90386c.mp4",
+  logo: "/images/nintoki-logo.png",
+  favicon: "/images/favicon.png",
+  appleTouchIcon: "/images/apple-touch-icon.png",
+  thickTan: "/images/signature-negi-tan.jpg",
+  kimbap: "/images/signature-yukhoe-kimbap.jpg",
+  tanYukhoe: "/images/signature-tan-yukhoe.jpg",
+  tanComparison: "/images/tan-comparison.jpg",
+  nihonbashi: "/images/store-nihonbashi.png",
+  umeda: "/images/store-umeda-higashidori.webp",
+  interiorVideo: "/media/nintoki-interior.mp4",
 };
 const brand = { name: "YAKINIKUEN 忍鬨", instagram: "https://www.instagram.com/yakinikuen_ning/", line: "" };
 const primaryNavigation = [
@@ -76,7 +79,7 @@ function footer() {
 }
 function layout({ title, description, pagePath, image, keywords, body, structuredData = [] }) {
   const rootPrefix = pageRoot(pagePath);
-  return `<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">${pageMeta({ title, description, path: pagePath, image, keywords })}<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;800;900&family=Oswald:wght@500;600&display=swap" rel="stylesheet"><link rel="stylesheet" href="${rootPrefix}styles.css">${structuredData.map(jsonScript).join("")}</head><body>${header(pagePath)}${body}${footer()}<script src="${rootPrefix}site.js" defer></script></body></html>`;
+  return `<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">${pageMeta({ title, description, path: pagePath, image, keywords })}<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;800;900&family=Oswald:wght@500;600&display=swap" rel="stylesheet"><link rel="icon" href="${assets.favicon}" type="image/png"><link rel="apple-touch-icon" href="${assets.appleTouchIcon}"><link rel="stylesheet" href="${rootPrefix}styles.css">${structuredData.map(jsonScript).join("")}</head><body>${header(pagePath)}${body}${footer()}<script src="${rootPrefix}site.js" defer></script></body></html>`;
 }
 function breadcrumbs(store) {
   const entries = [["ホーム", "/"], ["店舗・メニュー", "/stores/"], [store.name, `/stores/${store.slug}/`]];
@@ -141,6 +144,9 @@ function faqPage() { return layout({ title: "よくある質問｜YAKINIKUEN 忍
 
 fs.rmSync(dist, { recursive: true, force: true });
 fs.mkdirSync(dist, { recursive: true });
+fs.cpSync(publicDir, dist, { recursive: true });
+fs.mkdirSync(path.join(dist, "public"), { recursive: true });
+fs.cpSync(path.join(publicDir, "images"), path.join(dist, "public", "images"), { recursive: true });
 write("styles.css", fs.readFileSync(path.join(root, "src/site.css"), "utf8"));
 write("site.js", fs.readFileSync(path.join(root, "src/site.js"), "utf8"));
 write("index.html", homePage());
